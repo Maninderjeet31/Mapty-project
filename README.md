@@ -23,7 +23,7 @@ These choices are made posible because of the APIs used in real time during the 
  
  7. For future reference, if user closes the current session and opens it up any other time, all the previously logged workouts will still be there as they are stored in local storage of their machine.
  
- Screenshots:
+<!--  Screenshots:
  
  ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
  
@@ -36,7 +36,7 @@ These choices are made posible because of the APIs used in real time during the 
  ![Test Image 5](https://github.com/Maninderjeet31/Forkify/blob/master/pics/Add.png)
      
  ![Test Image 6](https://github.com/Maninderjeet31/Forkify/blob/master/pics/AddChange.png)
- 
+  -->
  
  
  
