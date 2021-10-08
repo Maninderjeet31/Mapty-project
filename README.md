@@ -10,8 +10,7 @@ These choices are made posible because of the APIs used in real time during the 
  
  Usage
  1. Initially, the user gets a map based on their location which is made possible by using LEAFLET, an open-source JavaScript library for mobile-friendly interactive maps.
-
- 2.The user can start loggin their workout by clicking anywhere on the map where they went did running or cycling. Which then displays an input block to get all the relative information.
+ 2. The user can start loggin their workout by clicking anywhere on the map where they went did running or cycling. Which then displays an input block to get all the relative information.
  
  3. Based upon type of the workout selected, the input block asks for the inputs which are relative to the workout type.
  
